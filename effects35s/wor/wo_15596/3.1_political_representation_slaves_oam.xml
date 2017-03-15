@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-15079626" name="3.1_political_representation_slaves" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/icon.png" width="530" height="420" />
+
+  <require type="other" src="3.1_political_representation_slaves.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="3.1_political_representation_slaves_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/basemap.png" />
+  <require type="image" src="images/gr_CT.png" />
+  <require type="image" src="images/gr_DE.png" />
+  <require type="image" src="images/gr_GA.png" />
+  <require type="image" src="images/gr_MA.png" />
+  <require type="image" src="images/gr_MD.png" />
+  <require type="image" src="images/gr_NC.png" />
+  <require type="image" src="images/gr_NH.png" />
+  <require type="image" src="images/gr_NJ.png" />
+  <require type="image" src="images/gr_NY.png" />
+  <require type="image" src="images/gr_PA.png" />
+  <require type="image" src="images/gr_RI.png" />
+  <require type="image" src="images/gr_SC.png" />
+  <require type="image" src="images/gr_VA.png" />
+  <require type="image" src="images/icon.png" />
+  <require type="image" src="images/or_GA.png" />
+  <require type="image" src="images/or_MD.png" />
+  <require type="image" src="images/or_NC.png" />
+  <require type="image" src="images/or_SC.png" />
+  <require type="image" src="images/or_VA.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-15079626"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="530" hidden="true"/>
+    <property name="default-height" defaultValue="420" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="3.1_political_representation_slaves.html" hidden="true"/>
+  </properties>
+
+</widget>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-8843041" name="2.5_slave_trade_arguments" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/Poster.png" width="233" height="565" />
+
+  <require type="other" src="2.5_slave_trade_arguments.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="2.5_slave_trade_arguments_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/dickinson_john_sm.png" />
+  <require type="image" src="images/ellsworth_oliver_sm.png" />
+  <require type="image" src="images/king_rufus_sm.png" />
+  <require type="image" src="images/langdon_john_sm.png" />
+  <require type="image" src="images/Poster.png" />
+  <require type="image" src="images/quote.png" />
+  <require type="image" src="images/randolph_edmund_sm.png" />
+  <require type="image" src="images/sherman_roger_sm.png" />
+  <require type="image" src="images/speech_bubble.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-8843041"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="233" hidden="true"/>
+    <property name="default-height" defaultValue="565" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="2.5_slave_trade_arguments.html" hidden="true"/>
+  </properties>
+
+</widget>
